@@ -1,3 +1,4 @@
+![alt text](http://puu.sh/qqBsk/93f892f4f6.png "example")
 How to install
 
 1. upload /jitsu/ dir to web server
