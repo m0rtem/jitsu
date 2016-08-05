@@ -12,8 +12,8 @@
  *
  * @category   Security
  * @package    jitsu
- * @author     Chris Feasey <chris@is-the.ninja>
- * @copyright  2016 chris
+ * @author     m0rtem <chris@is-the.ninja>
+ * @copyright  2016
  */
 class jitsu
 {
